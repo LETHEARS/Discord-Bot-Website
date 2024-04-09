@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Merhaba Web-siteme Hoşgeldiniz Kurulumuna daha yeni Başladım Sizce Nasıl Olmuş Geliştirmeye Devam Edeceğim DAHA DENEME."
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@XD EKLENECEK" />
@@ -29,11 +29,11 @@ class MyDocument extends Document {
             content="Merhaba Web-siteme Hoşgeldiniz Kurulumuna daha yeni Başladım Sizce Nasıl Olmuş Geliştirmeye Devam Edeceğim DAHA DENEME"
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image:alt" content="DENEME" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="MusicMaker"
+            content="DENEME"
           />
           <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
